@@ -1,0 +1,31 @@
+.calculator {
+    width: 223px;
+    padding: 14px 18px;
+    border: 1px solid #ccc;
+    text-align: center;
+    margin: auto;
+    background: black;
+    border-radius: 6px;
+}
+  
+  button {
+    width: 40px;
+    height: 40px;
+    margin: 5px;
+  }
+  
+  .operator {
+    border: 1px solid black;
+    border-radius: 10px;
+    color: black;
+    margin: 8px 4px;
+    font-size: 15px;
+
+  }
+
+  #display{
+    padding: 7px 17px;
+    border-radius: 4px;
+    border: 1px solid black;
+  }
+  
